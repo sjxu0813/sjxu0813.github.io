@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Shengjie Xu (徐圣劼)"
 title_separator          : "-"
-subtitle                 : "Postdoctoral Researcher | Computational Cognitive Neuroscience" # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 :  # site tagline that appears below site title in masthead
+name                     : "Shengjie Xu, Ph.D."
+description              : "Postdoctoral Researcher in Computational Cognitive Neuroscience"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,12 +116,12 @@ author:
   name             : # "Shengjie Xu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
-  location         : "Ghent, Belgium --> Würzburg, Germany"
-  email            : “sjx667[at]gmail.com”
+  location         : "Würzburg, Germany"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "sjx667[at]gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
