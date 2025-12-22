@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Publications"
-    url: ../_pages/Publications.md
+    url: /Publications/
   - title: "CV"
-    url: ../_pages/CV.md
+    url: /CV/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
