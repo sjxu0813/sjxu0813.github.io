@@ -1,9 +1,9 @@
 # Authors
 
-author:
+Shengjie Xu:
   name             : "Shengjie Xu, Ph.D." # "Shengjie Xu"
   avatar           : "/assets/profile_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Researcher in Computational Cognitive Neuroscience"# "I am an **amazing** person."
+  bio              : "Postdoctoral Researcher in Computational Cognitive Neuroscience"
   location         : "Würzburg, Germany"
   email            : "sjx667@gmail.com"
   google_scholar   : "https://scholar.google.com/citations?user=gr50QAkAAAAJ&hl=en"
