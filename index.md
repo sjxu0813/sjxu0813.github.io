@@ -1,6 +1,6 @@
 ---
 layout: home
 author_profile: true
-title: Home
+title: Hello there!
 ---
 Welcome to my website!
