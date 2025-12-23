@@ -12,4 +12,4 @@ I will soon start my postdoctoral work at the University of Würzburg in Germany
 In my spare time, you may find me on the basketball court, or simply lying in bed.
 
 ![alt text](/assets/home_image.PNG)
-(from left to right: Senne Braem, Mengqiao Chai, me and Leslie Held)
+(from left to right: Senne Braem, me, Mengqiao Chai and Leslie Held)
