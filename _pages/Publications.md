@@ -3,14 +3,14 @@ title: "Publications"
 permalink: /Publications/
 layout: single
 ---
-- ## Preprints
+## &#8226; Preprints
 **Xu, S.**, Wen, T., Egner, T., Verguts, T., & Braem, S. (2025). [Learning task rule updating strategies requires extensive practice.](https://osf.io/preprints/psyarxiv/pv5sy_v1) *PsyArXiv*. 
 
 **Xu, S.**, Chai, M., Liefooghe, B., & Abrahamse, E., & Braem, S. (2025). [Learning when to learn: Context-specific instruction encoding.](https://osf.io/preprints/psyarxiv/7tvx3_v2) *PsyArXiv*.
 
 **Xu, S.**, Erlich, C. J., & Lukinova, E. (2025). [Intertemporal choice across short and long time horizons: an fMRI study.](https://www.biorxiv.org/content/10.1101/2025.07.07.663570v1) *bioRxiv*.
 
-- ## Peer-reviewed Papers
+## &#8226; Peer-reviewed Papers
 **Xu, S.**, Verguts, T., & Braem, S. (in press at *Communications Psychology*). [Cognitive flexibility versus stability via activation-based and weight-based adaptations.](https://osf.io/preprints/psyarxiv/w8meh_v1) *Communications Psychology*.
 
 Vasta, N., **Xu, S.**, Verguts, T., & Braem, S. (2025). [A shared temporal window of integration across cognitive control and reinforcement learning paradigms: A correlational study.](https://link.springer.com/article/10.3758/s13421-024-01626-4) *Memory & cognition*
