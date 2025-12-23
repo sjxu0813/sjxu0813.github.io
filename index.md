@@ -12,4 +12,4 @@ author_profile: true
 <span style="font-size:0.7em;text-align:justify !important;text-justify:inter-word;">In my spare time, you may find me on the basketball court, or simply lying in bed.</span>
 
 ![alt text](/assets/home_image.PNG)
-<span style="font-size:0.5em">(from left to right: Senne Braem, me, Mengqiao Chai and Leslie Held)</span>
+<span style="font-size:0.7em">(from left to right: Senne Braem, me, Mengqiao Chai and Leslie Held)</span>
