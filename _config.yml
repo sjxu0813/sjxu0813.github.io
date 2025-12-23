@@ -131,6 +131,9 @@ author:
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
       url: "https://orcid.org/0000-0003-4604-372X"
+    - label: "CV"
+      icon: "fa fa-address-book"
+      url: "assets/CV_ShengjieXu_25.pdf"
 
 # Site Footer
 footer:
