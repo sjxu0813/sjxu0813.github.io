@@ -1,0 +1,24 @@
+/* =========================================================
+   Global Site Styling
+   Applies to the whole website (home, publications, etc.)
+   ========================================================= */
+
+/* Global font size and spacing */
+.page__content {
+  font-size: 0.7em;           /* base font size for all text */
+  line-height: 1.6;            /* spacing for better readability */
+
+}
+
+/* Headings: proportional to body text size */
+.page__content h1 {
+  font-size: 1.6em;           /* larger for the main title */
+}
+.page__content h2 {
+  font-size: 1.2em;           /* smaller than h1 */
+}
+.page__content h3 {
+  font-size: 1em;           /* smaller than h2 */
+}
+
+
