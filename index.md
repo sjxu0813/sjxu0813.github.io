@@ -9,7 +9,7 @@ author_profile: true
 
 <p style="text-align:justify !important;text-justify:inter-word;">I am now a postdoctoral researcher, at the University of Würzburg in Germany, working with <a href="https://www.garvertlab.com/start" target="_blank" rel="noopener">Prof. Mona Garvert</a>.</p>
 
-<p style="text-align:justify !important;text-justify:inter-word;">In my spare time, you may find me on the basketball court, or simply lying in bed.</p>
+<p style="text-align:justify !important;text-justify:inter-word;">In my spare time, you may find me on a basketball court, or simply lying in bed.</p>
 
 ![alt text](/assets/home_image.PNG)
 <p style="font-size:0.8em">(from left to right: Senne Braem, me, Mengqiao Chai and Leslie Held)</p>
